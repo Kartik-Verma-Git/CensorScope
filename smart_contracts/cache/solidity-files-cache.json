@@ -1,0 +1,77 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/home/kartik/Documents/blockchain/Project/smart_contracts/contracts/CensorshipRegistry.sol": {
+      "lastModificationDate": 1776781198799,
+      "contentHash": "2d383ecc38f6caa99e3ff3c4860f1dd1",
+      "sourceName": "contracts/CensorshipRegistry.sol",
+      "solcConfig": {
+        "version": "0.8.24",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.20"
+      ],
+      "artifacts": [
+        "CensorshipRegistry"
+      ]
+    },
+    "/home/kartik/Documents/blockchain/Project/smart_contracts/contracts/DecentralizedRegistry.sol": {
+      "lastModificationDate": 1776871406507,
+      "contentHash": "a6a3722d694bda538cbc70810a1acdc9",
+      "sourceName": "contracts/DecentralizedRegistry.sol",
+      "solcConfig": {
+        "version": "0.8.24",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.20"
+      ],
+      "artifacts": [
+        "DecentralizedRegistry"
+      ]
+    }
+  }
+}
